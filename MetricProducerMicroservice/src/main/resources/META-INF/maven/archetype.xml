@@ -1,0 +1,9 @@
+<archetype>
+  <id>untitled2</id>
+  <sources>
+    <source>src/main/java/MetricProducerMicroserviceApplication.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/MetricProducerMicroserviceApplicationTests.java</source>
+  </testSources>
+</archetype>
