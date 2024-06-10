@@ -16,9 +16,11 @@ Consumer в свою очередь принимает и обрабатывае
 http://localhost:8081/metrics
 
 Взаимодействие с Consumer:
+
 Отправка GET запроса на адрес (вывод всех метрик из БД):
 
 http://localhost:8080/metrics
+
 Отправка GET запроса на адрес c id в параметрах (вывод отдельной метрики по Id):
 
 http://localhost:8080/metrics/id
