@@ -42,11 +42,19 @@ http://localhost:8080/metrics/id
 
 
 ###  В проекте использовано:
+
 Spring boot 3
+
 Apache Kafka
+
 Postgres
+
 Docker
+
 Liquibase
+
 Lombok
+
 Swagger
+
 
